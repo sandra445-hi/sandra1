@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: o;
+    margin: 0;
+}
+body{
+    overflow: auto;
+}
+.container{
+    width: 70%;
+    margin: 20px auto ;
+
+}
+.foter{
+    margin-top:300px;
+    padding: 30px;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    align-content: center;
+  }
+  
