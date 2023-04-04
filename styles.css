@@ -126,3 +126,14 @@ a.active, a:hover {
   color: white;
   align-content: center;
 }
+.bu   a.active, a:hover {
+  background: none;
+}
+button{
+  border: none;
+  background-color: black;
+}
+.bu button:hover{
+  border: none;
+  background-color: gray;
+}
